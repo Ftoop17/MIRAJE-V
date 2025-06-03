@@ -66,8 +66,12 @@ if __name__ == "__main__":
 
 Этот проект лицензируется под MIT License. Для получения дополнительных сведений смотрите файл [LICENSE](LICENSE).
 
-## Контакты
+## 📱 Контакты  
+Разработчик: thetemirbolatov
+- **VK**: [thetemirbolatov](https://vk.com/thetemirbolatov)  
+- **Instagram**: [@thetemirbolatov](https://instagram.com/thetemirbolatov)  
+- **Telegram**: [@thetemirbolatov](https://t.me/thetemirbolatov)  
+- **GitHub**: [ftoop17](https://github.com/ftoop17)  
 
-Если у вас есть вопросы или предложения, вы можете связаться со мной по электронной почте: mirajestory@gmail.com.
+⭐ **Если вам нравится проект, поставьте звезду на GitHub!** ⭐  
 
-Автор: **thetemirbolatov**
