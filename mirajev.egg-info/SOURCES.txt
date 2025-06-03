@@ -1,0 +1,7 @@
+setup.py
+mirajev.egg-info/PKG-INFO
+mirajev.egg-info/SOURCES.txt
+mirajev.egg-info/dependency_links.txt
+mirajev.egg-info/entry_points.txt
+mirajev.egg-info/requires.txt
+mirajev.egg-info/top_level.txt
